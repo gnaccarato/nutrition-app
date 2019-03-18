@@ -1,0 +1,108 @@
+* {
+  margin: 0;  
+}
+
+.App {
+  text-align: center;
+  margin: 0 auto;
+  background: linear-gradient(rgb(127, 165, 190), rgb(168, 184, 196));
+  padding-top: 100px;
+  padding-bottom: 100px;  
+}
+
+ .container {  
+  color: #fff;  
+  width: 60vw;
+  height: 100vh;
+    
+ }
+
+ .header_title {
+   color: rgb(238, 165, 30);
+   border-bottom: 2px solid #f4f4f4;
+   width: 60vw;
+   margin-left: auto;
+   margin-right: auto;
+   padding-bottom: 1rem;
+ }
+  
+form {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.search_form {
+  margin-top: 30px;
+}
+
+.nutrition_info h5{
+  color: #f4f4f4;
+  margin-top: 25px;
+  padding: 10px;
+  background-color: rgb(79, 134, 196);
+  border-radius: 5px;
+  /* border: 1px solid #f4f4f4; */
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+span{
+  color:rgb(238, 165, 30);
+}
+
+@media only screen and (max-width: 992px) {
+  .container {
+    text-align: center;
+    margin: 0 auto;
+    width: 80vw;
+    height: 100vh;  
+    color: #f4f4f4;
+   }
+
+   form {
+    width: 70%;
+    margin: 0 auto;
+  }
+
+  .nutrition_info h5{
+    color: #f4f4f4;
+    margin-top: 25px;
+    padding: 10px;
+    background-color: rgb(79, 134, 196);
+    border-radius: 5px;
+    /* border: 1px solid #f4f4f4; */
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+}
+
+@media only screen and (max-width: 600px) {
+  .container {
+    text-align: center;
+    margin: 0 auto;
+    width: 100vw;
+    height: 100vh;  
+    color: #f4f4f4;
+   }
+
+   form {
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  .nutrition_info h5{
+    color: #f4f4f4;
+    margin-top: 25px;
+    padding: 10px;
+    background-color: rgb(79, 134, 196);
+    border-radius: 5px;
+    /* border: 1px solid #f4f4f4; */
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+    
+}
