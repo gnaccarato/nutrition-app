@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/nutrition-app/precache-manifest.13f1e1b071710c5a7c645400828f5b70.js"
+  "/nutrition-app/precache-manifest.6852f610bcf4afafeff6044118c28071.js"
 );
 
 workbox.clientsClaim();

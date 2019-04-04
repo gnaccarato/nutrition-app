@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "a0870f0f2be637df39ed",
-    "url": "/nutrition-app/static/css/main.86b655e7.chunk.css"
+    "revision": "1487e6f2507e523ee5d1",
+    "url": "/nutrition-app/static/css/main.54a4616a.chunk.css"
   },
   {
-    "revision": "a0870f0f2be637df39ed",
+    "revision": "1487e6f2507e523ee5d1",
     "url": "/nutrition-app/static/js/main.ab1719b3.chunk.js"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/nutrition-app/static/js/2.b3e6ddd7.chunk.js"
   },
   {
-    "revision": "35d2d16bd38288b1aefc8f4382977d3f",
+    "revision": "e553221f95fa93041e36d1dae10e78c4",
     "url": "/nutrition-app/index.html"
   }
 ];
